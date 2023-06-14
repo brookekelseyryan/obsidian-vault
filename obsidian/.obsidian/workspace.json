@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "98899987041b4479",
+    "type": "split",
+    "children": [
+      {
+        "id": "81ff191c09836f5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f397adca4fc1465c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "419e273f2de51443",
+    "type": "split",
+    "children": [
+      {
+        "id": "baf793d1f669917c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c1fc88224dca09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa23d6a83fd35a09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1348b4a1226bd6b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bff0581f0ddc439b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "right": {
+    "id": "8436be9cf6bd5c54",
+    "type": "split",
+    "children": [
+      {
+        "id": "abe14f960ea70009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90271a40384f9a0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/reference.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "051b1d430ff5eae8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/reference.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "394ec467866116e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14dda3a89feb563c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/reference.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c7c1fc88224dca09",
+  "lastOpenFiles": [
+    "templates/ref2.md",
+    "templates/feralfloratemplate.md",
+    "templates/reference.md",
+    "Untitled.md",
+    "literature/zotero",
+    "literature/HassonEtAl2020_DirectFitNature.md",
+    "attachments/HassonEtAl2020_DirectFitNature.pdf.md",
+    "Allen-Fallows-Getting Things Done.md",
+    "Zukav-The Dancing Wu Li Masters.md",
+    "HassonEtAl2020_DirectFitNature.md",
+    "An example!.md",
+    "Pollack-Seventy-Eight Degrees of Wisdom.md",
+    "McDougall-The Mcdougall Program for Maximum Weight Loss.md",
+    "Clear-Atomic Habits.md",
+    "Brown-The Indifferent Stars Above.md",
+    "Crowley-Meditation and Magick.md",
+    "DVM-Taylor-Dr Beckers Real Food For Healthy Dogs & Cats.md",
+    "Herbert-Dune Messiah.md",
+    "Burden_et_al-Numerical Analysis.md",
+    "Vora-Life Support.md",
+    "Herbert-Dune.md",
+    "McDowell-Bavaro-Cracking the PM Interview.md",
+    "Dodds-Laverdue-Canine Nutrigenomics - The New Science Of Feeding Your Dog For Optimum Health.md",
+    "Cannon-A Soul Remembers Hiroshima.md",
+    "Hoffman-Unfck Your Habitat.md",
+    "Fromkin-Europes Last Summer.md",
+    "Comprehensive_et_al-NLP.md",
+    "literature/attachments/_TemporalDynamicsOpportunity.pdf",
+    "Untitled 1",
+    "zotero",
+    "literature/attachments/HassonEtAl2020_DirectFitNature.pdf",
+    "literature/attachments/RaghuEtAl2019_TransfusionUnderstandingTransfer.pdf",
+    "literature/attachments/GabrielQuillien2019_SearchBeautyStruggle.pdf",
+    "literature/attachments/YaminsEtAl2014_PerformanceoptimizedHierarchicalModels.pdf",
+    "literature/attachments/YaminsDiCarlo2016_UsingGoaldrivenDeep.pdf",
+    "literature/attachments/IvanovaEtAl2020_ComprehensionComputerCode.pdf",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

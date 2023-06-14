@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Sanctum",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Palatino",
+  "monospaceFontFamily": "Space Mono",
+  "enabledCssSnippets": [
+    "obsidian-default-theme",
+    "callout-styling"
+  ],
+  "baseFontSize": 16
+}
